@@ -1,0 +1,287 @@
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('t1' , 't2')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('t1' , 't2')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('' , '')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('5555t' , '55555t2')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('' , '')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('5555t' , '55555t2')
+use boolshop
+set names utf8
+insert into test(t1,t2) values ('5555t\"' , '55555t2\'')
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+insert into test () values ('')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('5555t','55555t2')
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+insert into test () values ('')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('5555t','55555t2')
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+insert into test () values ('')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('5555t','55555t2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('5555t','55555t2/')
+use boolshop
+set names utf8
+insert into  (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('frontf','front22')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('frontf','front22')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('frontf','front22')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('frontf','front22')
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('admin','admin2')
+use boolshop
+set names utf8
+use boolshop
+set names utf8
+select * from test
+use boolshop
+set names utf8
+select * from test
+use boolshop
+set names utf8
+select * from test
+use boolshop
+set names utf8
+select * from test
+use boolshop
+set names utf8
+insert into test (t1,t2) values ('frontf','front22')
+use boolshop
+set names utf8
+insert into cate (catename) values ('成就神位')
+use boolshop
+set names utf8
+insert into cate (catename,intro) values ('PHP学习','成就神位')
+use boolshop
+set names utf8
+insert into cate (catename,intro) values ('人流','人流医院')
+use boolshop
+set names utf8
+insert into cate (catename,intro) values ('PHP学习','成就神位')
+use boolshop
+set names utf8
+insert into cate (catename,intro) values ('PHP学习中','一二三四五六七')
+use boolshop
+set names utf8
+insert into test () values ('')

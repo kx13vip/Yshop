@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+<title>编辑器的介绍与百度编辑器的引入</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="" rel="stylesheet">
+<script type="text/javascript">
+	function t(){
+		var d = document.getElementsByTagName('div')[0];
+		alert(d.innerHTML);
+	}
+</script>
+<style type="text/css">
+	div{
+		width:500px;
+		height:300px;
+		border:solid 1px red;
+	}
+</style>
+</head>
+<body>
+    <div contenteditable="true">
+    	<pre>
+    		插入一个iframe
+    		并利用网页的contenteditable属性，
+    		使该iframe可以编辑，再利用js，来完成加粗，变色等效果
+    		最后再获取该区域的内容即可
+    	</pre>
+    </div>
+    <input type="button" value="编辑器的内容提交" onclick="t();">
+    <pre>
+    	常用的编辑器：
+    	比较老牌的：fctEditor->CKEditor
+    	kindEditor
+    	国内的ewebEditor
+    	百度推出的Ueditor
+
+    	编辑器都大同小异
+
+    	像编辑器，在线支付这样的东西，都不是知识点
+    	只是个API调用罢了，最好的办法就是读官方的手册
+    </pre>
+</body>
+</html>
